@@ -150,6 +150,8 @@ const Status = () => {
               }}
               pagination={false}
               sticky={true}
+              scroll={{ x: 'max-content' }}
+              responsive={true}
             />
           </InfiniteScroll>
         </div>
