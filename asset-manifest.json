@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wait-registration-book/static/css/main.3e54a812.css",
+    "main.js": "/wait-registration-book/static/js/main.d1a3bfe3.js",
+    "index.html": "/wait-registration-book/index.html",
+    "main.3e54a812.css.map": "/wait-registration-book/static/css/main.3e54a812.css.map",
+    "main.d1a3bfe3.js.map": "/wait-registration-book/static/js/main.d1a3bfe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e54a812.css",
+    "static/js/main.d1a3bfe3.js"
+  ]
+}
