@@ -1,0 +1,58 @@
+
+.App {
+  font-family: 'Times New Roman', Times, serif;
+  box-sizing: border-box;
+}
+h1, h2,h3, h4, h5, h6, body, .ant-menu-title-content, .ant-form-item-label label, .ant-form-item-explain-error, b, p, .ant-table-cell, .ant-tag{
+  font-family: 'Times New Roman', Times, serif !important;
+}
+
+.App-logo {
+  height: 100px;
+  pointer-events: none;
+}
+.logo{
+  height: 80px;
+}
+.layout {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  height: 100%;
+}
+.content {
+  padding: 20px;
+  width: 100%;
+}
+.ant-input {
+  box-sizing: border-box;
+  margin: 0;
+  font-variant: tabular-nums;
+  list-style: none;
+  font-feature-settings: "tnum";
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  min-width: 0;
+  padding: 8.5px 11px;
+  color: #455560;
+  font-size: 14px;
+  line-height: 1.2;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #e6ebf1;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+.ml-10{
+  margin-left: 10px;
+}
+/* .nav-link {
+  display: unset !important;
+} */
